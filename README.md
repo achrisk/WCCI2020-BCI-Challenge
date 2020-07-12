@@ -1,0 +1,1 @@
+# WCCI2020-BCI-Challenge
