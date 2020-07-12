@@ -18,7 +18,7 @@ We have used EEGNet described in "EEGNet: A Compact Convolutional Network for EE
 
 ### Within Subject Classification
 
-Several methods were compared using 5-fold cross validation kappa scores. DNN with two layers: 16 hidden units and 1 sigmoid output unit is used to produce final results.
+Several methods were compared using 5-fold cross validation kappa scores. DNN with two layers: 16 hidden units and 1 sigmoid output unit on Riemannian features is used to produce final results.
 
 ### Cross Subject Classification
 
@@ -28,7 +28,7 @@ For cross subject classification, an ensemble of EEGNet and Riemannian Geometry 
 
 Run the IPython notebook ```Classify.ipynb```.
 
-Packages requires:
+Packages required:
 - Pyriemann
 - Tensorflow
 - scikit-learn
