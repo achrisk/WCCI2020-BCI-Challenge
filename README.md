@@ -1,5 +1,7 @@
 # Clinical BCI Challenge WCCI 2020: Team iBCI
 
+**Update (24th July 2020):** We got 2nd position in the challenge.
+
 This is the submission of team iBCI for the Clinical BCI Challenge organized by World Congress on Computational Intelligence (WCCI) 2020. The [dataset](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow) provided consists of EEG data recorded on 10 hemiparetic stroke patients using a 12 channel device with a sampling rate of 512 Hz.
 
 ## Description of Methods used
